@@ -4,10 +4,6 @@ import java.util.*;
 
 public class Calculator {
 
-	public Calculator() {
-		// TODO Auto-generated constructor stub
-	}
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int a,b,ch,add,sub,mul;
